@@ -1,0 +1,2 @@
+# rust-hour
+🦀 RUST HOUR ⏳
