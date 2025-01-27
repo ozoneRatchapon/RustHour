@@ -4,7 +4,12 @@ Browser
 - Firefox / Brave
 
 Editor
+- VS Code with rust-analyzer and Even Better TOML
 - Zed
+
+Coworker
+- Deepseek
+- Gemini
 
 Journey
 - [🦀 Rust for JS Developer 🧑‍💻 - Part 1](https://www.youtube.com/watch?v=4XdREYotK5M)
