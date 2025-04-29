@@ -8,8 +8,10 @@ Editor
 - Zed
 
 Coworker
-- Deepseek
 - Gemini
+- Grok
+- Deepseek
+
 
 Journey
 - [🦀 Rust for JS Developer 🧑‍💻 - Part 1](https://www.youtube.com/watch?v=4XdREYotK5M)
